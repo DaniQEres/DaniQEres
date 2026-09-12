@@ -23,6 +23,8 @@ Isolation and purification of caffeine from an aqueous silverskin extract: liqui
 
 Small tools for the unglamorous parts of lab work — gravimetric fermentation tracking, data cleanup, structured methodology drafting, and bibliography handling. I build these because my own projects need them, not as demos.
 
+The first of these is [revision-reporte](https://github.com/DaniQEres/revision-reporte), a Claude Code skill that runs the final check on my LaTeX lab reports: structure, APA 7 references verified against Crossref, SI units, and the internal consistency of experimental data.
+
 I work with Claude Code and API integrations. Earlier, in high school, I built a four-wheeled agricultural rover with a 7-in-1 NPK soil sensor that processed readings through an LLM API and returned irrigation and fertilization recommendations. It won two first places and one second place at inter-school science fairs and earned a recognition for contributions in AGTECH. That project is why I think LLM tooling belongs in engineering workflows and not just in software ones.
 
 ---
