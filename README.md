@@ -28,10 +28,9 @@ I work with Claude Code and API integrations. Earlier, in high school, I built a
 ---
 
 ## 🧑‍💻Working setup
-Tools:
-LaTeX / Overleaf · Zotero (biblatex, APA) · Python for lab data · Claude Code · API integrations
-Languages:
-Spanish (native) · English (B2+)
+Tools:LaTeX / Overleaf · Zotero (biblatex, APA) · Python for lab data · Claude Code · API integrations
+
+Languages:Spanish (native) · English (B2+)
 
 ---
 
