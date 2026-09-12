@@ -12,7 +12,7 @@ Most of my work lives in a lab notebook and a LaTeX project. This profile is whe
 Acid whey is a high-volume dairy byproduct with a disposal problem and a lactose content nobody is using. We run thermal deproteinization, enzymatic hydrolysis with *A. oryzae* β-galactosidase, and fermentation with *S. cerevisiae*. My focus is optimizing the variables across those stages. The theoretical ceiling for our feedstock is around 3% v/v ethanol, so the interesting question is not "does it ferment" — it's how much of that ceiling we can actually reach, and where the losses are.
 
 **⛽️Adsorbent pretreatment for biodiesel feedstocks** — *assistant lead, 12 people*
-We evaluate adsorbents for pretreating waste oils, currently fish oil. The goal is to remove the need for acid esterification with H₂SO₄ which is a step that is corrosive, generates acidic waste, involves working with dangerous chemicals and complicates downstream processing. My first academic output was a poster proposing a fixed-bed column methodology for this.
+We evaluate adsorbents for pretreating waste oils, currently fish oil. The goal is to remove the need for acid esterification with H₂SO₄ — a step that is corrosive, generates acidic waste, and complicates downstream processing. My first academic output was a poster proposing a fixed-bed column methodology for this.
 
 **⚡️Caffeine recovery from coffee silverskin** — *team project*
 Isolation and purification of caffeine from an aqueous silverskin extract: liquid-liquid extraction with food-grade solvents, recrystallization, and full mass balance. Coffee silverskin is a roasting byproduct, which matters in Guatemala more than most places.
@@ -28,8 +28,9 @@ I work with Claude Code and API integrations. Earlier, in high school, I built a
 ---
 
 ## 🧑‍💻Working setup
-
+Tools:
 LaTeX / Overleaf · Zotero (biblatex, APA) · Python for lab data · Claude Code · API integrations
+Languages:
 Spanish (native) · English (B2+)
 
 ---
